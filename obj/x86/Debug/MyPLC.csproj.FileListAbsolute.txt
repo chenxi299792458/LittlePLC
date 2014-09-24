@@ -1,0 +1,102 @@
+C:\Users\Administrator\Desktop\MyPLC\MyPLC\bin\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC\MyPLC\bin\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC\MyPLC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyPLC\MyPLC\obj\x86\Debug\MyPLC.Form1.resources
+C:\Users\Administrator\Desktop\MyPLC\MyPLC\obj\x86\Debug\MyPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyPLC\MyPLC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\MyPLC\MyPLC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\MyPLC\MyPLC\obj\x86\Debug\MyPLC.exe.licenses
+C:\Users\Administrator\Desktop\MyPLC\MyPLC\obj\x86\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC\MyPLC\obj\x86\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC - 副本\MyPLC\obj\x86\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC - 副本\MyPLC\obj\x86\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC - 副本\MyPLC\bin\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC - 副本\MyPLC\bin\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC - 副本\MyPLC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyPLC - 副本\MyPLC\obj\x86\Debug\MyPLC.Form1.resources
+C:\Users\Administrator\Desktop\MyPLC - 副本\MyPLC\obj\x86\Debug\MyPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyPLC - 副本\MyPLC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\MyPLC - 副本\MyPLC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\MyPLC - 副本\MyPLC\obj\x86\Debug\MyPLC.exe.licenses
+E:\桌面\MyPLC - 副本\MyPLC\obj\x86\Debug\MyPLC.exe
+E:\桌面\MyPLC - 副本\MyPLC\obj\x86\Debug\MyPLC.pdb
+E:\桌面\MyPLC - 副本\MyPLC\bin\Debug\MyPLC.exe
+E:\桌面\MyPLC - 副本\MyPLC\bin\Debug\MyPLC.pdb
+E:\桌面\MyPLC - 副本\MyPLC\obj\x86\Debug\MyPLC.csprojResolveAssemblyReference.cache
+E:\桌面\MyPLC - 副本\MyPLC\obj\x86\Debug\MyPLC.Form1.resources
+E:\桌面\MyPLC - 副本\MyPLC\obj\x86\Debug\MyPLC.Properties.Resources.resources
+E:\桌面\MyPLC - 副本\MyPLC\obj\x86\Debug\MyPLC.csproj.GenerateResource.Cache
+E:\桌面\MyPLC - 副本\MyPLC\obj\x86\Debug\MyPLC.exe.licenses
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！\MyPLC\obj\x86\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！\MyPLC\obj\x86\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！\MyPLC\bin\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！\MyPLC\bin\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！\MyPLC\obj\x86\Debug\MyPLC.Form1.resources
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！\MyPLC\obj\x86\Debug\MyPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！\MyPLC\obj\x86\Debug\MyPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！\MyPLC\obj\x86\Debug\MyPLC.exe.licenses
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！\MyPLC\obj\x86\Debug\MyPLC.csprojResolveAssemblyReference.cache
+E:\桌面\MyPLC - 碉堡！now\MyPLC\obj\x86\Debug\MyPLC.exe
+E:\桌面\MyPLC - 碉堡！now\MyPLC\obj\x86\Debug\MyPLC.csprojResolveAssemblyReference.cache
+E:\桌面\MyPLC - 碉堡！now\MyPLC\obj\x86\Debug\MyPLC.Form1.resources
+E:\桌面\MyPLC - 碉堡！now\MyPLC\obj\x86\Debug\MyPLC.Properties.Resources.resources
+E:\桌面\MyPLC - 碉堡！now\MyPLC\obj\x86\Debug\MyPLC.csproj.GenerateResource.Cache
+E:\桌面\MyPLC - 碉堡！now\MyPLC\obj\x86\Debug\MyPLC.exe.licenses
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！now\MyPLC\obj\x86\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！now\MyPLC\bin\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！now\MyPLC\bin\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！now\MyPLC\obj\x86\Debug\MyPLC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！now\MyPLC\obj\x86\Debug\MyPLC.Form1.resources
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！now\MyPLC\obj\x86\Debug\MyPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！now\MyPLC\obj\x86\Debug\MyPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！now\MyPLC\obj\x86\Debug\MyPLC.exe.licenses
+C:\Users\Administrator\Desktop\MyPLC - 碉堡！now\MyPLC\obj\x86\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC -5-19-upper\MyPLC\obj\x86\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC -5-19-upper\MyPLC\obj\x86\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC -5-19-upper\MyPLC\bin\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC -5-19-upper\MyPLC\bin\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC -5-19-upper\MyPLC\obj\x86\Debug\MyPLC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyPLC -5-19-upper\MyPLC\obj\x86\Debug\MyPLC.Form1.resources
+C:\Users\Administrator\Desktop\MyPLC -5-19-upper\MyPLC\obj\x86\Debug\MyPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyPLC -5-19-upper\MyPLC\obj\x86\Debug\MyPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MyPLC -5-19-upper\MyPLC\obj\x86\Debug\MyPLC.exe.licenses
+C:\Users\Administrator\Desktop\MyPLC -5-19-elevate1\MyPLC\obj\x86\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC -5-19-elevate1\MyPLC\obj\x86\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC -5-19-elevate1\MyPLC\bin\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC -5-19-elevate1\MyPLC\bin\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC -5-19-elevate1\MyPLC\obj\x86\Debug\MyPLC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyPLC -5-19-elevate1\MyPLC\obj\x86\Debug\MyPLC.Form1.resources
+C:\Users\Administrator\Desktop\MyPLC -5-19-elevate1\MyPLC\obj\x86\Debug\MyPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyPLC -5-19-elevate1\MyPLC\obj\x86\Debug\MyPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MyPLC -5-19-elevate1\MyPLC\obj\x86\Debug\MyPLC.exe.licenses
+C:\Users\Administrator\Desktop\MyPLC -5-21-elevate1\MyPLC\obj\x86\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC -5-21-elevate1\MyPLC\obj\x86\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC -5-21-elevate1\MyPLC\bin\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC -5-21-elevate1\MyPLC\bin\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC -5-21-elevate1\MyPLC\obj\x86\Debug\MyPLC.Form1.resources
+C:\Users\Administrator\Desktop\MyPLC -5-21-elevate1\MyPLC\obj\x86\Debug\MyPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyPLC -5-21-elevate1\MyPLC\obj\x86\Debug\MyPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MyPLC -5-21-elevate1\MyPLC\obj\x86\Debug\MyPLC.exe.licenses
+C:\Users\Administrator\Desktop\MyPLC -5-21-elevate1\MyPLC\obj\x86\Debug\MyPLC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyPLC -5-22\MyPLC\obj\x86\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC -5-22\MyPLC\obj\x86\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC -5-22\MyPLC\bin\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLC -5-22\MyPLC\bin\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLC -5-22\MyPLC\obj\x86\Debug\MyPLC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyPLC -5-22\MyPLC\obj\x86\Debug\MyPLC.Form1.resources
+C:\Users\Administrator\Desktop\MyPLC -5-22\MyPLC\obj\x86\Debug\MyPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyPLC -5-22\MyPLC\obj\x86\Debug\MyPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MyPLC -5-22\MyPLC\obj\x86\Debug\MyPLC.exe.licenses
+C:\Users\Administrator\Desktop\MyPLC -5-22\MyPLC\obj\x86\Debug\MyPLC.Form2.resources
+C:\Users\Administrator\Desktop\MyPLC -5-22\MyPLC\obj\x86\Debug\MyPLC.Form3.resources
+C:\Users\Administrator\Desktop\MyPLCs\MyPLC -5-23-modbus-mdxy\MyPLC\obj\x86\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLCs\MyPLC -5-23-modbus-mdxy\MyPLC\obj\x86\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLCs\MyPLC -5-23-modbus-mdxy\MyPLC\bin\Debug\MyPLC.exe
+C:\Users\Administrator\Desktop\MyPLCs\MyPLC -5-23-modbus-mdxy\MyPLC\bin\Debug\MyPLC.pdb
+C:\Users\Administrator\Desktop\MyPLCs\MyPLC -5-23-modbus-mdxy\MyPLC\obj\x86\Debug\MyPLC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyPLCs\MyPLC -5-23-modbus-mdxy\MyPLC\obj\x86\Debug\MyPLC.Form1.resources
+C:\Users\Administrator\Desktop\MyPLCs\MyPLC -5-23-modbus-mdxy\MyPLC\obj\x86\Debug\MyPLC.Form2.resources
+C:\Users\Administrator\Desktop\MyPLCs\MyPLC -5-23-modbus-mdxy\MyPLC\obj\x86\Debug\MyPLC.Form3.resources
+C:\Users\Administrator\Desktop\MyPLCs\MyPLC -5-23-modbus-mdxy\MyPLC\obj\x86\Debug\MyPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyPLCs\MyPLC -5-23-modbus-mdxy\MyPLC\obj\x86\Debug\MyPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MyPLCs\MyPLC -5-23-modbus-mdxy\MyPLC\obj\x86\Debug\MyPLC.exe.licenses
